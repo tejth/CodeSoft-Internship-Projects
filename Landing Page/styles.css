@@ -1,0 +1,172 @@
+*{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+/************** Nav-section *************/
+.nav-section{
+    height: 60px;
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    width: 100%; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.whitec{
+    color: white;
+}
+.box1{
+    display: flex;
+    height: 60px;
+    justify-content: space-around;
+    align-items: center;
+}
+.bx11{
+    text-decoration: none;
+}
+.icon{
+    margin: 4px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    padding: 5px;
+}
+.box2{
+    display: flex;
+    justify-content: space-between;
+}
+.contactnav{
+    display: flex;
+    
+}
+.navpara{
+    color: white;
+    font-weight: 100;
+    padding-left:8px ;
+}
+.mailnav{
+    display: flex;
+    padding-left: 40px;
+}
+.button {
+    background-color: #d57eeb;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+.button5{
+    border-radius: 5%;
+}
+.span1{
+    font-weight: 550;
+}
+.navsection2{
+        height: 85px;
+        background-color: #F6F4EB;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+}
+.box5 a{
+    text-decoration: none;
+    color: black;
+    padding: 18px;
+    font-size: large;
+    font-style: italic;
+    
+}
+
+.box5 a:hover{
+    background-color: orange;
+}
+.box6{
+    height: 100%;
+    width: 4%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mailiconn{
+    border-left: 1px solid white;
+    padding-left: 35px;
+}
+
+.info{
+        height: 200px;
+        background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+}
+.business{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+        align-items: center;
+}
+.rcicon{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+.icon1{
+    color: white;
+  
+}
+.sec4{
+    text-decoration: none;
+    color:white;
+}
+
+.section5{
+width: 100%;
+height: 800px;
+background-image: linear-gradient(135deg, #f5f7fa 0%, #979da7 100%);
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+overflow: hidden;
+}
+
+.contentdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.headingdetails{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.endsection{
+    height: 400px;
+    width: 100%;
+    background-color: #c2c4c8;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.endimages{
+    display: flex;
+    flex-direction: row;
+
+}
+.smll{
+    display: flex;
+    position: relative;
+   background-color: white;
+}
+.talent{
+    background: rgb(163, 154, 154);
+}
